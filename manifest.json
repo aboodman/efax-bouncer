@@ -1,0 +1,11 @@
+{
+  "name": "eFax Bouncer",
+  "description": "Redirects international eFax URLs to the US one.",
+  "version": "1",
+  "manifest_version": 2,
+  "permissions": ["webNavigation"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
