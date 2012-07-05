@@ -1,0 +1,5 @@
+This is a simple Chrome extension that redirects www.efax.* to www.efax.com. It
+was created in response to a question on Quora.com with the following
+ridiculously long URL:
+
+http://www.quora.com/Google-Chrome/How-do-I-avoid-that-when-I-am-in-Venezuela-and-click-on-eFax-on-the-following-article-the-tab-opened-is-http-www-efax-es-and-not-efax-com
